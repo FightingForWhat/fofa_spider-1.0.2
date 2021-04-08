@@ -24,7 +24,7 @@ demo
 ![](demo/demo1.png)
 ![](demo/demo2.png)
 
-如果你觉得好用，请给作者买杯咖啡
+### 如果你觉得好用，请给作者买杯咖啡
 
 ![](demo/weixins.png)
 
