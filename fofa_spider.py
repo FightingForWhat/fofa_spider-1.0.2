@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # !/usr/bin/python
 # @Time    : 2021-04-06
-# @Author  : 409162075
+# @Author  : 
 # @FileName: fofa_spider.py
 # version: 1.0.2
 
